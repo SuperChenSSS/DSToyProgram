@@ -4,7 +4,7 @@
 2. LinkedList(链接表)
 3. BinaryTree(二叉树)
 4. Graph(图)
+5. Sort(排序)
 
 ## Pending:
-5. Sort(排序)
 6. Knowledge Map(知识图谱)
